@@ -1,0 +1,5 @@
+{
+  "name": "Zone Emissions Calculator",
+  "description": "A production-grade, physics-based transport and aviation emissions engine. It takes a polygon, queries live traffic speeds, real-time weather, and aircraft movements, applies physics-first corrections, and returns a CO2e estimate with an uncertainty envelope and data quality flag.",
+  "requestFramePermissions": []
+}
